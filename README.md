@@ -440,3 +440,11 @@ sudo systemctl restart hamdb-gui
 **73!** 
 
 *Built for the Amateur Radio Community*
+
+---
+
+## Support This Project
+
+If you find this useful, star ⭐ the repo! It helps others discover it.
+
+---
