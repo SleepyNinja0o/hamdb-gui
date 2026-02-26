@@ -125,6 +125,10 @@ hamdb count
 
 # Update database
 hamdb update
+
+# Update database with a specific daily file
+hamdb update mon
+hamdb update monday
 ```
 
 ## Administration
