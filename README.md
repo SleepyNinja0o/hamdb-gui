@@ -1,4 +1,4 @@
-<img width="1314" height="1348" alt="image" src="https://github.com/user-attachments/assets/8be4bcab-3a79-4018-acbb-c5398f210295" />
+<img width="880" height="883" alt="image" src="https://github.com/user-attachments/assets/774d5ccf-c90a-4f22-85df-1f0c939f0423" />
 
 
 # HamDB GUI V1.0
