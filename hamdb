@@ -64,6 +64,11 @@ fi
 
 if [ ${1} == full ]; then
   FULLIMPORT=1
+elif [[ ${1} == "update" || ${1} == "updatedb" || ${1} == "updatedatabase" ]]; then
+  if [ -n ${2} ]; then
+    DAY=`date -d ${2} | tr '[:upper:]' '[:lower:]' | sed 's/\([a-z]*\).*/\1/'`
+    echo "DAY manually set to: $DAY"
+  fi
 fi
 
 if [ ${1} == getfccfile ]; then
